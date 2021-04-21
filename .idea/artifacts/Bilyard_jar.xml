@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Bilyard:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Bilyard_jar</output-path>
+    <root id="archive" name="Bilyard.jar">
+      <element id="module-output" name="Bilyard" />
+    </root>
+  </artifact>
+</component>
